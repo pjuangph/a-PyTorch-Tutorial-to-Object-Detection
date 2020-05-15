@@ -10,7 +10,7 @@ Questions, suggestions, or corrections can be posted as issues.
 
 **14 May 2020**: Updates from Paht over the existing code 
 1. Paht is using `PyTorch 1.5` in `Python 3.7`
-2. Object detection is configured to using the smallest box possible for each label
+2. Object detection is configured to using the smallest box possible for each label when there is an overlap
 3. A new folder is added to convert the code to working with Caltech's bird dataset http://www.vision.caltech.edu/visipedia/CUB-200-2011.html
 ---
 
